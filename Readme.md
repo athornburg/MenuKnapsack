@@ -3,8 +3,8 @@ This is a solution to the Menu Knapsack problem.
 
 Pre-Reqs
 --------
-[Maven](http://maven.apache.org/)
-[Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk7u7-downloads-1836413.html)
+1. [Maven](http://maven.apache.org/)
+2. [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk7u7-downloads-1836413.html)
 
 Run java -version and mvn -version
 
