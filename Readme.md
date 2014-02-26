@@ -6,7 +6,7 @@ Pre-Reqs
 1. [Maven](http://maven.apache.org/)
 2. [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk7u7-downloads-1836413.html)
 
-Run java -version and mvn -version
+Run java -version and mvn -version in the command line to ensure they are installed.
 
 Building
 --------
