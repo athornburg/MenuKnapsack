@@ -10,14 +10,6 @@ public class MenuSolver {
     MenuSolver(){
     }
 
-    int max(int x,int y){
-        if(x>y){
-            return x;
-        }else{
-            return y;
-        }
-    }
-
 
 
     public void subsetSum(MenuItem[] prices, int index, int current, int total, String result){

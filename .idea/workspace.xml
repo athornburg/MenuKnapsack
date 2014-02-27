@@ -73,10 +73,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MenuSolver.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MenuSolver.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/MenuSolver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0">
+            <state line="10" column="5" selection-start="160" selection-end="160" vertical-scroll-proportion="0.26785713">
               <folding>
                 <element signature="docComment;class#MenuSolver#0" expanded="false" />
               </folding>
@@ -147,10 +147,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Readme.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Readme.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="77" selection-start="513" selection-end="513" vertical-scroll-proportion="0.66964287">
+            <state line="15" column="77" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -179,10 +179,10 @@
         <option value="$PROJECT_DIR$/src/main/resources/menu2.txt" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/MenuItem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MenuSolver.java" />
         <option value="$PROJECT_DIR$/src/main/java/CSVParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/Readme.md" />
+        <option value="$PROJECT_DIR$/src/main/java/MenuSolver.java" />
       </list>
     </option>
   </component>
@@ -624,15 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MenuSolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="docComment;class#MenuSolver#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CSVParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="34" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0">
@@ -659,8 +650,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="77" selection-start="513" selection-end="513" vertical-scroll-proportion="0.66964287">
+        <state line="15" column="77" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MenuSolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="5" selection-start="160" selection-end="160" vertical-scroll-proportion="0.26785713">
+          <folding>
+            <element signature="docComment;class#MenuSolver#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
