@@ -13,7 +13,7 @@ Building
 
 1. git clone https://github.com/athornburg/MenuKnapsack.git
 2. cd MenuKnapsack
-1. Ensure text documents are in the MenuKnapsack/src/main/resources folder in the project.
+1. Ensure text documents are in the MenuKnapsack/src/main/resources folder of the project.
 3. mvn clean
 4. mvn package
 5. For output with repitition: sh target/bin/MenuKnapsack -r menu.txt
